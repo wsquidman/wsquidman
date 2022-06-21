@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wsquidman
+- 👀 I’m expereinced in brute forcing and hash decoding using Python.
+- 🌱 I’m currently learning C#.
+- 📫 Discord: squidman#0420
